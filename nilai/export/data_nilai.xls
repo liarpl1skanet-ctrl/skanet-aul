@@ -1,0 +1,49 @@
+<html>
+<head>
+<meta charset="UTF-8">
+</head>
+<body>
+
+<table border="1">
+
+<tr>
+    <th>ID Nilai</th>
+    <th>Nama Siswa</th>
+    <th>Mapel</th>
+    <th>Nama Guru</th>
+    <th>Nilai</th>
+</tr><tr>
+        <td>3</td>
+        <td>erika</td>
+        <td>seni </td>
+        <td>zulfa</td>
+        <td>86</td>
+    </tr><tr>
+        <td>4</td>
+        <td>gita</td>
+        <td>IPAS</td>
+        <td>zulfa</td>
+        <td>83</td>
+    </tr><tr>
+        <td>6</td>
+        <td>rena</td>
+        <td>IPAS</td>
+        <td>sulistiawati</td>
+        <td>87</td>
+    </tr><tr>
+        <td>9</td>
+        <td>agam candra</td>
+        <td>seni </td>
+        <td>aunnurfarid</td>
+        <td>87</td>
+    </tr><tr>
+        <td>10</td>
+        <td>agam candra</td>
+        <td>agama</td>
+        <td>aunnurfarid</td>
+        <td>46</td>
+    </tr>
+</table>
+
+</body>
+</html>
